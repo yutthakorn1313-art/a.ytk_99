@@ -1,1 +1,0 @@
-This zip would contain the full Smart Link Tracker project files.
